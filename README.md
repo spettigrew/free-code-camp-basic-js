@@ -9,3 +9,5 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/bas
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/word-blanks - 25 Mar 2020
 
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/access-array-data-with-indexes - 26 Mar 2020
+
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-scope-and-functions - 27 Mar 2020

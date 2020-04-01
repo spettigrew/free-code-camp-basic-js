@@ -15,3 +15,5 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/bas
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-undefined-value-returned-from-a-function - 28 Mar 2020
 
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/logical-order-in-if-else-statements - 31 Mar 2020
+
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/return-early-pattern-for-functions - 1 April 2020

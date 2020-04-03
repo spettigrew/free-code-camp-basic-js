@@ -19,3 +19,5 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/bas
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/return-early-pattern-for-functions - 1 April 2020
 
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/build-javascript-objects - 2 April 2020
+
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-variables - 3 April 2020

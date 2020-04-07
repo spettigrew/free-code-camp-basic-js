@@ -25,3 +25,5 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/bas
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/testing-objects-for-properties - 4 April 2020
 
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection - 6 April 2020
+
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-do...while-loops - 7 April 2020

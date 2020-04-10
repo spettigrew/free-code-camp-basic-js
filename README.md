@@ -29,3 +29,5 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/bas
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-do...while-loops - 7 April 2020
 
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-recursion-to-create-a-range-of-numbers - 8 April 2020
+
+https://www.freecodecamp.org/learn/front-end-libraries/react/render-html-elements-to-the-dom - 10 April 2020
